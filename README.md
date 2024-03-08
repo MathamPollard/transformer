@@ -3,7 +3,7 @@ own pytorch inplementation of transformer with the help of GPT4, performing perf
 
 BLEU score: **52.24** 
 
-有空再把代码放上来 
+ 
 ![image](https://github.com/MathamPollard/transformer/assets/84085854/8928b4ec-a159-416d-a06d-c82ef994b8a6)
 ![image](https://github.com/MathamPollard/transformer/assets/84085854/8babead7-a834-45ef-8165-6b473cf46239)
 ![image](https://github.com/MathamPollard/transformer/assets/84085854/f92e14ff-779a-4fec-a418-2b38ab81df83)
